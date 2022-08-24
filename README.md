@@ -2,7 +2,7 @@
 # Full creator display in column for Zotero 6
 
 #### AUTHOR：he.xin@naturalis.nl  
-#### WEBSITE: <a href="http://www.naturalis.nl/en/he-xin">http://www.naturalis.nl/en/he-xin</a>
+#### WEBSITE: <a href="https://www.naturalis.nl/en/he-xin">https://www.naturalis.nl/en/he-xin</a>
 
 ## Display the first author name and the last author name in the 'Authors' column.
 
