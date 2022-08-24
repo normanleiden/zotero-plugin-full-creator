@@ -4,7 +4,7 @@
 #### AUTHOR：he.xin@naturalis.nl  
 #### WEBSITE: <a href="http://www.naturalis.nl/en/he-xin">http://www.naturalis.nl/en/he-xin</a>
 
-## Display full creators in the 'Authors' column.
+## Display the first author name and the last author name in the 'Authors' column.
 
 ## 按中文或英文习惯，以'Authors'列 显示完整的第一作者与最后一个（一般是通讯）作者。
 
